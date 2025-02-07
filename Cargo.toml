@@ -1,0 +1,5 @@
+[package]
+name = "marvis"
+version = "0.1.0"
+edition = "2021"
+description = "A privacy-first AI co-pilot that lives on your desktop."
