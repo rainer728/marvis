@@ -13,3 +13,4 @@ description = "A privacy-first AI co-pilot that lives on your desktop."
 # handle the edge case from the last release
 # guard against empty input
 # drop an unused branch
+# drop an unused branch
