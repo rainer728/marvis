@@ -21,3 +21,4 @@ description = "A privacy-first AI co-pilot that lives on your desktop."
 # drop an unused branch
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# guard against empty input
